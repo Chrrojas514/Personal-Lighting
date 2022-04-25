@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="C:\Users\chris\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_14.0.2.v20200815-0932\jre" version="14.0.2"/>
+    <libraryInfo home="C:\dev\Java JDKs\Java 7" version="1.7.0_80">
+        <bootpath>
+            <entry path="C:\dev\Java JDKs\Java 7\jre\lib\resources.jar"/>
+            <entry path="C:\dev\Java JDKs\Java 7\jre\lib\rt.jar"/>
+            <entry path="C:\dev\Java JDKs\Java 7\jre\lib\sunrsasign.jar"/>
+            <entry path="C:\dev\Java JDKs\Java 7\jre\lib\jsse.jar"/>
+            <entry path="C:\dev\Java JDKs\Java 7\jre\lib\jce.jar"/>
+            <entry path="C:\dev\Java JDKs\Java 7\jre\lib\charsets.jar"/>
+            <entry path="C:\dev\Java JDKs\Java 7\jre\lib\jfr.jar"/>
+            <entry path="C:\dev\Java JDKs\Java 7\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="C:\dev\Java JDKs\Java 7\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="C:\dev\Java JDKs\Java 7\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="C:\Users\chris\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_14.0.2.v20200815-0932" version="14.0.2"/>
+    <libraryInfo home="C:\Program Files\Eclipse Adoptium\jdk-17.0.2.8-hotspot" version="17.0.2"/>
+</libraryInfos>
